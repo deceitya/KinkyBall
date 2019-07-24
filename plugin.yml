@@ -1,0 +1,9 @@
+name: KinkyBall
+main: Deceitya\KinkyBall\KinkyBallPlugin
+version: 1.0.0
+api: 3.9.0
+
+load: POSTWORLD
+author: deceitya
+description: プレイヤーを追い回すボール
+website: https://github.com/deceitya/KinkyBall
